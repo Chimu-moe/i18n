@@ -1,0 +1,12 @@
+{
+    "genre": "類型",
+
+    "game": "遊戲",
+    "anime": "動漫",
+    "rock": "搖滾樂",
+    "pop": "流行音樂",
+    "other": "其他",
+    "novelty": "新奇",
+    "hiphop": "嘻哈",
+    "electronic": "電音"
+}
