@@ -1,0 +1,22 @@
+{
+    "ranked_status": "Ранкед статус",
+    "ranked": "Ранкед",
+    "approved": "Одобрено",
+    "graveyard": "Заброшена",
+    "loved": "Обожаема",
+    "pending": "Ожидает",
+    "qualified": "Квалифицирована",
+    "wip": "Незавершена",
+    "unknown_status": "Неизвестный? :(",
+    
+    "type_to_search": "Введите для поиска",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Звёзды",
+    "bpm": "BPM",
+    "length": "Длина"
+}

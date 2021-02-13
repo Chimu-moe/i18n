@@ -1,0 +1,22 @@
+{
+    "ranked_status": "Ranked Status",
+    "ranked": "Ranked",
+    "approved": "Approved",
+    "graveyard": "Graveyard",
+    "loved": "Loved",
+    "pending": "Pending",
+    "qualified": "Qualified",
+    "wip": "WIP",
+    "unknown_status": "Unknown :(",
+    
+    "type_to_search": "Type to search",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Stars",
+    "bpm": "BPM",
+    "length": "Length"
+}
