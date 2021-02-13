@@ -4,19 +4,19 @@
     "approved": "Approved",
     "graveyard": "Graveyard",
     "loved": "Loved",
-    "pending": "Pending",
-    "qualified": "Qualified",
+    "pending": "Ausstehend",
+    "qualified": "Qualifiziert",
     "wip": "WIP",
-    "unknown_status": "Unknown :(",
+    "unknown_status": "Unbekannt :(",
     
-    "type_to_search": "Type to search",
+    "type_to_search": "Tippe zum Suchen",
 
     "od": "OD",
     "cs": "CS",
     "ar": "AR",
     "hp": "HP",
 
-    "stars_diff": "Star Difficulty",
+    "stars_diff": "Schwierigkeit",
     "bpm": "BPM",
-    "length": "Length"
+    "length": "Länge"
 }
