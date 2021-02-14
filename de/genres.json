@@ -1,0 +1,12 @@
+{
+    "genre": "Genre",
+
+    "game": "Spiel",
+    "anime": "Anime",
+    "rock": "Rock",
+    "pop": "Pop",
+    "other": "Andere",
+    "novelty": "Neuheit",
+    "hiphop": "Hip-Hop",
+    "electronic": "Elektonisch"
+}

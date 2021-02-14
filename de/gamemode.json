@@ -1,7 +1,7 @@
 {
-    "gamemode": "Gamemode",
+    "gamemode": "Modus",
     "std": "Standard",
     "taiko": "Taiko",
-    "ctb": "Catch The Beat",
+    "ctb": "Catch the Beat",
     "mania": "Mania"
 }
