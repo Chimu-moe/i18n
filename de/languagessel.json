@@ -9,7 +9,8 @@
   "russian": "Русский",
   "slovak": "Slovenčina",
   "thai": "ไทย",
-  "chinese": "中文",
+  "traditional_chinese": "繁體中文",
+  "simplified_chinese": "簡體中文",
 
   "help_us": "Hilf uns mit der Übersetzung!",
   "lang_select": "Sprache ändern"

@@ -1,0 +1,22 @@
+{
+    "ranked_status": "排名狀態",
+    "ranked": "已排名",
+    "approved": "認可",
+    "graveyard": "墓地",
+    "loved": "Loved",
+    "pending": "待審核",
+    "qualified": "提名中",
+    "wip": "製作中",
+    "unknown_status": "未知 :(",
+    
+    "type_to_search": "輸入以搜索",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "星",
+    "bpm": "BPM",
+    "length": "長度"
+}
