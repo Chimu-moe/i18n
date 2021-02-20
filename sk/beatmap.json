@@ -1,0 +1,22 @@
+{
+    "ranked_status": "Kategórie",
+    "ranked": "Hodnotené",
+    "approved": "Schválené",
+    "graveyard": "Cintorín",
+    "loved": "Obľúbené",
+    "pending": "Nerozhodnutý",
+    "qualified": "Kvalifikované",
+    "wip": "WIP",
+    "unknown_status": "Neznáme :(",
+    
+    "type_to_search": "Zadajte hľadaný výraz",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Obtiažnosť",
+    "bpm": "BPM",
+    "length": "Dĺžka"
+}

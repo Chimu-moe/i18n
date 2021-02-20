@@ -1,0 +1,22 @@
+{
+    "ranked_status": "หมวดหมู่",
+    "ranked": "จัดอันดับแล้ว",
+    "approved": "อนุมัติ",
+    "graveyard": "สุสาน",
+    "loved": "Loved",
+    "pending": "รอดำเนินการ",
+    "qualified": "Qualified",
+    "wip": "WIP",
+    "unknown_status": "ไม่ทราบ :(",
+    
+    "type_to_search": "พิมพ์เพื่อค้นหา",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "ความยาก",
+    "bpm": "BPM",
+    "length": "ความยาว"
+}

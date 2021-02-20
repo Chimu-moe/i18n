@@ -1,0 +1,22 @@
+{
+    "ranked_status": "Categorías",
+    "ranked": "Clasificados",
+    "approved": "Aprobados",
+    "graveyard": "Abandonados",
+    "loved": "Amados",
+    "pending": "Pendiente",
+    "qualified": "Calificados",
+    "wip": "WIP",
+    "unknown_status": "Desconocido :(",
+    
+    "type_to_search": "Tipo a buscar",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Dificultad",
+    "bpm": "BPM",
+    "length": "Longitud"
+}

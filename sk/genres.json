@@ -1,0 +1,12 @@
+{
+    "genre": "Žáner",
+
+    "game": "Videohry",
+    "anime": "Anime",
+    "rock": "Rock",
+    "pop": "Pop",
+    "other": "Ostatné",
+    "novelty": "Novinky",
+    "hiphop": "HipHop",
+    "electronic": "Elektronické"
+}
