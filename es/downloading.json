@@ -1,7 +1,7 @@
 {
-    "state_1": "Downloading via osu!",
-    "state_2": "Fetching from Database",
-    "state_3": "Uploading into Interplanetary File System",
-    "state_4": "Downloading Beatmap",
-    "state_5": "Saving to clients device"
+    "state_1": "Descargando via osu!",
+    "state_2": "Buscando en la base de datos",
+    "state_3": "Subiendo al Sistema de Archivos Interplanetario",
+    "state_4": "Descargando Beatmap",
+    "state_5": "Guardando"
 }
