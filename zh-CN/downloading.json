@@ -1,7 +1,7 @@
 {
-    "state_1": "Downloading via osu!",
-    "state_2": "Fetching from Database",
-    "state_3": "Uploading into Interplanetary File System",
-    "state_4": "Downloading Beatmap",
-    "state_5": "Saving to clients device"
+    "state_1": "通过osu!下载",
+    "state_2": "从数据库中获取",
+    "state_3": "上载到星际档案系统",
+    "state_4": "下载节拍图中",
+    "state_5": "保存到客户端设备"
 }
