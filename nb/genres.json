@@ -1,0 +1,12 @@
+{
+    "genre": "Sjanger",
+
+    "game": "Dataspill",
+    "anime": "Anime",
+    "rock": "Rock",
+    "pop": "Pop",
+    "other": "Andre",
+    "novelty": "Novelty",
+    "hiphop": "HipHop",
+    "electronic": "Elektronisk"
+}

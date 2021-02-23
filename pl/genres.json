@@ -1,0 +1,12 @@
+{
+    "genre": "Gatunek",
+
+    "game": "Gra wideo",
+    "anime": "Anime",
+    "rock": "Rock",
+    "pop": "Pop",
+    "other": "Inny",
+    "novelty": "Oryginalny",
+    "hiphop": "HipHop",
+    "electronic": "Muzyka elektroniczna"
+}

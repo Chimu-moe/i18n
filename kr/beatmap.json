@@ -1,0 +1,22 @@
+{
+    "ranked_status": "랭크 상태",
+    "ranked": "Ranked",
+    "approved": "Approved",
+    "graveyard": "무덤에 감",
+    "loved": "Loved",
+    "pending": "보류 중",
+    "qualified": "Qualified",
+    "wip": "WIP",
+    "unknown_status": "알 수 없음 :(",
+    
+    "type_to_search": "검색어를 입력해주세요",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Stars",
+    "bpm": "BPM",
+    "length": "길이"
+}

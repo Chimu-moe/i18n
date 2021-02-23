@@ -1,0 +1,22 @@
+{
+    "ranked_status": "Kategorier",
+    "ranked": "Rangert",
+    "approved": "Godkjent",
+    "graveyard": "Gravplassert",
+    "loved": "Elsket",
+    "pending": "Ventende",
+    "qualified": "Kvalifisert",
+    "wip": "WIP",
+    "unknown_status": "Ukjent :(",
+    
+    "type_to_search": "Skriv for å søke",
+
+    "od": "OD",
+    "cs": "CS",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Vanskelighet",
+    "bpm": "BPM",
+    "length": "Lengde"
+}

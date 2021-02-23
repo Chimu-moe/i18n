@@ -1,0 +1,12 @@
+{
+    "genre": "장르",
+
+    "game": "게임",
+    "anime": "애니메이션",
+    "rock": "락",
+    "pop": "팝",
+    "other": "기타",
+    "novelty": "이색적인 장르",
+    "hiphop": "힙합",
+    "electronic": "일레트로닉"
+}
