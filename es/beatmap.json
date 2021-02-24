@@ -1,15 +1,16 @@
 {
     "ranked_status": "Categorías",
-    "ranked": "Clasificados",
-    "approved": "Aprobados",
-    "graveyard": "Abandonados",
-    "loved": "Amados",
+    "ranked": "Clasificado",
+    "approved": "Aprobado",
+    "graveyard": "Abandonado",
+    "loved": "Amado",
     "pending": "Pendiente",
-    "qualified": "Calificados",
-    "wip": "WIP",
+    "qualified": "Calificado",
+    "wip": "Pendiente",
     "unknown_status": "Desconocido :(",
     
-    "type_to_search": "Tipo a buscar",
+    "type_to_search": "Escriba para buscar",
+    "direct_link": "Direct link to map",
 
     "od": "OD",
     "cs": "CS",
@@ -18,5 +19,5 @@
 
     "stars_diff": "Dificultad",
     "bpm": "BPM",
-    "length": "Longitud"
+    "length": "Duración"
 }
