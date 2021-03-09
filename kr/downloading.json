@@ -1,7 +1,7 @@
 {
-    "state_1": "Downloading via osu!",
-    "state_2": "Fetching from Database",
-    "state_3": "Uploading into Interplanetary File System",
-    "state_4": "Downloading Beatmap",
-    "state_5": "Saving to clients device"
+    "state_1": "osu!를 통해 다운로드 중",
+    "state_2": "데이터베이스에서 가져오는 중",
+    "state_3": "분산 파일 시스템으로 업로드 중",
+    "state_4": "비트맵 다운 중",
+    "state_5": "클라이언트 기기에 저장 중"
 }
