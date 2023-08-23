@@ -1,0 +1,7 @@
+{
+    "state_1" : "Téléchargement via osu !",
+    "state_2" : "Récupération depuis la base de données",
+    "state_3" : "Téléchargement dans le système de fichiers interplanétaire",
+    "state_4" : "Téléchargement de la Beatmap",
+    "state_5" : "Sauvegarde sur l'appareil du client"
+}
