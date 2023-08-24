@@ -1,0 +1,24 @@
+{
+    "ranked_status": "Statut classé",
+    "ranked": "Classé",
+    "approved": "Approuvé",
+    "graveyard": "Cimetière",
+    "loved": "Aimé",
+    "pending": "En attente",
+    "qualified": "Qualifiée",
+    "wip": "WIP",
+    "unknown_status": "Inconnue :(",
+    
+    "type_to_search": "Taper pour rechercher",
+    "direct_link": "Lien direct vers la Beatmap",
+
+    "od": "OD",
+    "cs": "CS",
+    "cs_keys": "Keys",
+    "ar": "AR",
+    "hp": "HP",
+
+    "stars_diff": "Difficulté en étoiles",
+    "bpm": "BPM",
+    "length": "Durée"
+}
